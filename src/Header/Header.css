@@ -1,0 +1,14 @@
+
+
+ul{
+    list-style: none;
+}
+ul li{
+    display: inline-block;
+    padding: 10px;
+    color: #fff;
+}
+ul li a{
+    color: black;
+    text-decoration: none;
+}
